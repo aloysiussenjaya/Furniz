@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "cabinetM.arreferenceimage"
+    },
+    {
+      "filename" : "diningM.arreferenceimage"
+    },
+    {
+      "filename" : "floorM.arreferenceimage"
+    },
+    {
+      "filename" : "lampM.arreferenceimage"
+    },
+    {
+      "filename" : "sofaM.arreferenceimage"
+    },
+    {
+      "filename" : "tableM.arreferenceimage"
+    }
+  ]
+}
